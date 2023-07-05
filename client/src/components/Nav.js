@@ -6,7 +6,7 @@ function Nav() {
     >
       <a className="navbar-brand">
         <p style={{ fontSize: 25, color: "white", paddingLeft: "10px" }}>
-          NOTE APP
+          Note App
         </p>
       </a>
     </nav>

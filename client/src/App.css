@@ -64,3 +64,6 @@
   bottom: 10px;
   right: 10px;
 }
+textarea{
+  outline: none;
+}
